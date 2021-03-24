@@ -3,3 +3,6 @@
 Bu Değişiklik github üzerinde yapılmıştır.
 
 Bu değişiklik development branchinde yapılmıştır.
+
+
+Teşekkür ederiz.
