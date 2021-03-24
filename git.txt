@@ -4,5 +4,7 @@ Bu Değişiklik github üzerinde yapılmıştır.
 
 Bu değişiklik development branchinde yapılmıştır.
 
-
 Teşekkür ederiz.
+
+Bu değişiklik IEU ACM GitHub hesabından yapılmıştır.
+
