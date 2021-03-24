@@ -3,3 +3,5 @@
 Bu Değişiklik github üzerinde yapılmıştır.
 
 Bu değişiklik development branchinde yapılmıştır.
+
+Bu değişiklik IEU ACM GitHub hesabından yapılmıştır.
