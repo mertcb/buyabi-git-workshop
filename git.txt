@@ -1,1 +1,3 @@
 24 Mart BUYABİ Git Workshop
+
+Bu Değişiklik github üzerinde yapılmıştır.
